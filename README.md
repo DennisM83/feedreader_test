@@ -16,8 +16,8 @@ You would need the latest version of a web brower
 
 ## Dependencies
 
-Jasmine JS - https://jasmine.github.io/2.0/introduction.html
-jQuery - https://jquery.com/
+* Jasmine JS - https://jasmine.github.io/2.0/introduction.html
+* jQuery - https://jquery.com/
 
 ## Description 
 
